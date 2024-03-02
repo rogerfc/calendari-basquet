@@ -9,6 +9,8 @@ requests = "*"
 lxml = "*"
 icalendar = "*"
 ics = "*"
+pyyaml = "*"
+pyarrow = "*"
 
 [dev-packages]
 

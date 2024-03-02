@@ -1,0 +1,23 @@
+---
+equips:
+- nom_curt: CASB Mini
+  id_equip: 62680
+  id_club: 275
+  categoria: CT-U11
+  jugador: Roc
+  nom: CREU ALTA SABADELL VERMELL
+  descripcio: Mini de 1er any 2023-24
+- nom_curt: CASB PreMini
+  id_equip: 63431
+  id_club: 275
+  categoria: CT-U10
+  jugador: Artau
+  nom: CREU ALTA SABADELL
+  descripcio: Pre-Mini 2023-24
+- nom_curt: CASB Cadet
+  id_equip: 63431
+  id_club: 275
+  categoria: CT-U16
+  jugador: Martí
+  nom: CREU ALTA SABADELL
+  descripcio: Cadet 2023-24
